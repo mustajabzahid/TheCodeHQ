@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Visual Header / Brand Banner -->
-<img src="./public/logo-hq-tr.png" alt="TheCodeHQ Banner" width="40%" style="border-radius: 10px; max-width: 850px;" />
+<img src="./logo-hq-tr.png" alt="TheCodeHQ Banner" width="40%" style="border-radius: 10px; max-width: 850px;" />
 
 <br/><br/>
 
